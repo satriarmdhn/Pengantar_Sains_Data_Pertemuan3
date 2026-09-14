@@ -1,6 +1,6 @@
 # Tugas Pengantar Sains Data
 
-Repository ini berisi tugas untuk mata kuliah **Pengantar Sains Data**.
+Repository ini berisi tugas untuk mata kuliah **Pengantar Sains Data** pada pertemuan ke-3.
 
 ## 👤 Identitas
 
